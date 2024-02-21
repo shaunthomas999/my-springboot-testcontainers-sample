@@ -1,3 +1,5 @@
+Based on: [https://github.com/testcontainers/java-local-development-workshop/]()
+
 # Java Local Development Workshop
 
 This workshop will explain how to use Testcontainers \([https://www.testcontainers.com](https://www.testcontainers.com)\) in your Java application development process.
